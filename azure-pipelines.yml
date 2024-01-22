@@ -17,7 +17,7 @@ steps:
     versionSpec: '17'
     jdkArchitectureOption: 'x64'
     jdkSourceOption: 'LocalDirectory'
-    jdkFile: 'C:\Users\macie\Documents\Azure Devops Course\test'
+    jdkFile: 'C:\Users\macie\Documents\Azure Devops Course\test\jdk-17_windows-x64_bin.zip'
     jdkDestinationDirectory: 'C:\Program Files\java_test'
     cleanDestinationDirectory: true
    
